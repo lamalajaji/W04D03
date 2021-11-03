@@ -12,7 +12,7 @@ const fizBuzz = (n)=>{
     }
     else{
         for (let i = 1; i <= n; i++) {
-            console.log(i);;
+            console.log(i);
             
         }
     }

@@ -1,0 +1,17 @@
+.Nav{
+    width: 90%;
+}
+.Nav ul{
+    margin-bottom: 20vh;
+   list-style-type: none;
+   display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+    
+}
+
+.Nav li {
+    align-content: center;
+}
